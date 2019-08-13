@@ -55,7 +55,44 @@ footer {
     
     bottom: 0;
     width: 100%;
-    background-color: blueviolet;
+    
     color: white;
-    text-align: center;
+   
+  }
+
+
+
+  #footer {
+      background-color: blueviolet; 
+       text-align: center;
+  }
+
+
+  .footerContainer {
+
+    background-color: lightgreen;
+
+    height: 100px;
+    display: block;
+  }
+
+  .footer {
+width: 980px;
+margin: auto;
+
+  }
+
+
+  .footerLeft {
+    width: 49%;
+    Float: left;
+    display:inline;
+
+
+  }
+  .footerRight {
+    width: 49%;
+    Float: left;
+    display:inline;
+
   }
